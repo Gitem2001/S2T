@@ -23,7 +23,7 @@ app = FastAPI()
 # if not os.path.exists(AUDIO_DIRECTORY):
 #     os.makedirs(AUDIO_DIRECTORY)
 
-STATIC_AUDIO_FILE_PATH = '/Users/rashidganeev/PycharmProjects/S2T_project/pythonProject/data/audio_files/test.mp4'
+STATIC_AUDIO_FILE_PATH = '/data/audio_files/test.mp4'
 @app.get('/speech/recognize')
 async def recognize():
     '''
