@@ -29,7 +29,7 @@ vosk-model-small-ru-0.22 - официальная документация [docu
 Ответ в случае превышения времени исполнения 3 сек.
 ```json
 {
-  'task_id': d4da55e0-9bd9-4d6d-b706-1a9cddacec4c
+  'task_id': "d4da55e0-9bd9-4d6d-b706-1a9cddacec4c"
 }
 
 ```
