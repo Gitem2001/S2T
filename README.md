@@ -59,3 +59,4 @@ vosk-model-small-ru-0.22 - официальная документация [docu
 
 Для запуска приложения, установите все библиотеки из requirements.txt, после чего запустите fastapi приложение backend $\rightarrow$ controller $\rightarrow$ main.py 
 
+В текущей версии приложения, не был реализован IO интерфейс. Для отладки работы API использовался файл data/audio_files/test.mp4
